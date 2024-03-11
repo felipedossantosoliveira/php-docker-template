@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/felipedossantosoliveira/php-docker-template.git
    ```
 
 2. Set up the environment file:
